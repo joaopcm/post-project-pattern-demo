@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/joaopcm/post-project-pattern-demo/issues"
   },
-  "homepage": "https://github.com/joaopcm/post-project-pattern-demo#readme"
+  "homepage": "https://github.com/joaopcm/post-project-pattern-demo#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
